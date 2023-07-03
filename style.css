@@ -1,0 +1,83 @@
+* {
+    margin: 0px 0px 8px 0px;
+    font-family: poppins;
+    text-align: center;
+}
+
+
+.menu {
+    margin: 10px 10px 50px 10px;
+    padding: 25px;
+    border-radius: 20PX;
+    list-style-type: none;
+    text-align: center;
+    background-color: #ab76ff;
+}
+
+
+.menu li {
+    display: inline;
+    margin: 50px;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+
+.menu li:hover {
+    color: #eeeeee;
+    transition: 500ms;
+}
+
+
+/* .menu li:{
+    color: #0077ff;
+} */
+
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+
+.main-heading {
+    margin: 0px 0px 10px 0px;
+    font-size: 3rem;
+    color: #519dff;
+}
+
+
+.main-heading::first-letter {
+    font-size: 5rem;
+    color: #7a30f0;
+}
+
+
+.sub-heading {
+    margin: 0px 0px 20px 0px;
+    color: #740000;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+
+.rating {
+    margin: 0px 0px 30px 0px;
+    line-height: 1.5rem;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #0077ff;
+}
+
+
+.poem {
+    font-size: 1.35rem;
+    color: #007457;
+    font-weight: 500;
+}
+
+
+footer {
+    color: gray;
+}
